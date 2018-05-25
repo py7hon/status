@@ -2,7 +2,7 @@
   "title": "Fansubs.me | Fansub.ku | Fansub.chan Status",
   "name": "status",
   "link": "http://status.fansubs.me",
-  "repo": "py7hon",
+  "repo": "py7hon/status",
   "owner": "py7hon",
   "statusRepo": "py7hon/status",
   "services": ["Tor", "Website", "Server1 (OVH)", "Server2 (IIX)", "DNS"],
