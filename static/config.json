@@ -1,0 +1,20 @@
+{
+  "title": "Fansubs.me | Fansub.ku | Fansub.chan Status",
+  "name": "status",
+  "link": "http://status.fansubs.me",
+  "repo": "py7hon",
+  "owner": "py7hon",
+  "statusRepo": "py7hon/status",
+  "services": ["Tor", "Website", "Server1 (OVH)", "Server2 (IIX)", "DNS"],
+  "statuses": {
+    "operational": "#2ecc71",
+    "degraded": "#f39c12",
+    "outage": "#e74c3c"
+  },
+  "statusMessages": {
+    "operational": "All systems operational",
+    "degraded": "Degraded perfomance",
+    "outage": "Major outage"
+  },
+  "footer": "Hosted with ❤️ by GitHub. [py7hon/status](http://github.com/py7hon/status)"
+}
